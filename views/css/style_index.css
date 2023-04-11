@@ -167,7 +167,7 @@
 }
 
 #div-three{
-  background-image: url(/views/img/fundo-div-two.png);
+  background-image: url('../../views/img/fundo-div-two.png');
   object-fit: cover;
   margin-right: 200px;
   height: 100vh;
